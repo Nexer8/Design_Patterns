@@ -5,4 +5,5 @@ Creational patterns provide various object creation mechanisms, which increase f
 * Builder
 * Factory Method
 * Object Pool
+* Prototype
 * Singleton
