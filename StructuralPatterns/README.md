@@ -7,3 +7,4 @@ Structural patterns explain how to assemble objects and classes into larger stru
 * Decorator
 * Facade
 * Flyweight
+* Proxy

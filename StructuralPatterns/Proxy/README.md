@@ -1,0 +1,2 @@
+# Proxy
+Proxy lets a user provide a substitute or placeholder for another object. A proxy controls access to the original object, allowing the user to perform something either before or after the request gets through to the original object.
