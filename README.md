@@ -1,4 +1,5 @@
 # Design Patterns Playground
-* Behavioral Patterns
-* Creational Patterns
-* Structural Patterns
+
+- Behavioral Patterns
+- Creational Patterns
+- Structural Patterns
